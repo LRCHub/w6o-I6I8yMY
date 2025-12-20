@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Daybreak embers",
+  "base_artist": "院田唐音 (CV.富田美憂)",
+  "createdAt": "2025-12-20T08:54:22.916123Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daybreak embers",
+      "artist": "院田唐音 (CV.富田美憂)",
+      "has_synced": false,
+      "path": "select/pl_01_Daybreak_embers_院田唐音_(CV.富田美憂).txt"
+    }
+  ]
+}
